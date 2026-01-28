@@ -3,7 +3,7 @@
 
 それぞれのサービスの詳細は以下からアクセスできます。
 - [sokumon](/sokumon/index.md)
-- [2(MhYg)](/2(MhYg)/index.md)
+- [2(MhYg)](/2MhYg/index.md)
 - [峡緑アカウント](/KyouRyoku/アカウント/index.md)
 
 また峡緑サービス全体のプライバシーポリシー、利用規約等は以下から確認できます。
