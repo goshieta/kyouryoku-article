@@ -2,7 +2,7 @@
 このページは[峡緑](https://kyouryoku.net)が運営する各種サービスのヘルプや、使い方等がまとめられています。
 
 それぞれのサービスの詳細は以下からアクセスできます。
-- [sokumon](/sokumon/index.md)
+- [ソクモン](/ソクモン/index.md)
 - [2(MhYg)](/2MhYg/index.md)
 - [峡緑アカウント](/KyouRyoku/アカウント/index.md)
 
@@ -16,7 +16,7 @@
 ## 峡緑が運営しているサービス一覧
 現在峡緑が運営しているサービスは以下の通りとなっています。リンクはそのサービスのトップページに飛びます。
 - [峡緑](https://kyouryoku.net)
-- [sokumon](https://sokumon.kyouryoku.net)
+- [ソクモン](https://sokumon.kyouryoku.net)
 - [2(MhYg)](https://2mhyg.kyouryoku.net)
 
 ## 峡緑について
