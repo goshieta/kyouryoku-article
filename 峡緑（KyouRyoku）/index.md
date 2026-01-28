@@ -1,3 +1,8 @@
+---
+title: 峡緑（KyouRyoku）のヘルプページ
+description: 峡緑（KyouRyoku）のヘルプページです。
+---
+
 # 峡緑（KyouRyoku）のヘルプページ
 
 峡緑アカウントについて
